@@ -1,0 +1,5 @@
+Menambahkan Produk dengan klik "Produk" di navbar 
+setelah itu klik "Tambah produk" di halaman produk, 
+setelah itu mengisi data produk dan upload gambar
+setelah itu klik 'tambah produk"
+maka akan diminta mengisi form dan menambah produk
